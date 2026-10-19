@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="tr" class="scroll-smooth">
 <head>
@@ -66,7 +65,7 @@
             <div class="flex items-center gap-4">
                 <span><i class="fa-solid fa-location-dot text-emerald-400 mr-1"></i> Güzelyaka Köyü, Çaycuma / Zonguldak</span>
                 <span class="hidden md:inline">|</span>
-                <span class="hidden md:inline"><i class="fa-solid fa-user-tie text-emerald-400 mr-1"></i> Muhtar: Murtaza Oruç</span>
+                <span class="hidden md:inline"><i class="fa-solid fa-user-tie text-emerald-400 mr-1"></i> Muhtar: Mürteza Oruç</span>
             </div>
             <div class="flex items-center gap-4">
                 <a href="tel:+905326606372" class="hover:text-white transition-colors flex items-center gap-1 font-semibold">
@@ -95,7 +94,6 @@
                 <a href="#hero" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Ana Sayfa</a>
                 <a href="#muhtar" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Muhtarımızın Mesajı</a>
                 <a href="#services" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Hizmetler</a>
-                <a href="#announcements" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Duyurular</a>
                 <a href="#about-village" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Köyümüz</a>
                 <a href="#contact" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">İletişim</a>
             </nav>
@@ -118,7 +116,6 @@
             <a href="#hero" class="block px-4 py-2.5 rounded-xl font-medium hover:bg-emerald-50 dark:hover:bg-emerald-950">Ana Sayfa</a>
             <a href="#muhtar" class="block px-4 py-2.5 rounded-xl font-medium hover:bg-emerald-50 dark:hover:bg-emerald-950">Muhtarımızın Mesajı</a>
             <a href="#services" class="block px-4 py-2.5 rounded-xl font-medium hover:bg-emerald-50 dark:hover:bg-emerald-950">Hizmetlerimiz</a>
-            <a href="#announcements" class="block px-4 py-2.5 rounded-xl font-medium hover:bg-emerald-50 dark:hover:bg-emerald-950">Duyurular</a>
             <a href="#about-village" class="block px-4 py-2.5 rounded-xl font-medium hover:bg-emerald-50 dark:hover:bg-emerald-950">Köyümüz</a>
             <a href="#contact" class="block px-4 py-2.5 rounded-xl font-medium hover:bg-emerald-50 dark:hover:bg-emerald-950">İletişim</a>
             <a href="tel:+905326606372" class="block w-full text-center px-4 py-3 bg-emerald-600 text-white font-semibold rounded-xl mt-2">
@@ -138,7 +135,7 @@
                 Güzelyaka Köyü Muhtarlığı <br/> Resmî Web Sitesi
             </h1>
             <p class="text-lg sm:text-xl text-emerald-100 max-w-2xl mx-auto mb-10 font-light">
-                Köyümüzle ilgili güncel duyurulara erişebilir, muhtarlık hizmetlerinden faydalanabilir ve muhtarımız ile iletişime geçebilirsiniz.
+                Köyümüzle ilgili muhtarlık hizmetlerinden faydalanabilir ve muhtarımız ile iletişime geçebilirsiniz.
             </p>
             
             <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -156,7 +153,7 @@
                     <i class="fa-solid fa-user-tie"></i>
                 </div>
                 <div>
-                    <h3 class="font-bold text-white text-sm sm:text-base">Murtaza Oruç</h3>
+                    <h3 class="font-bold text-white text-sm sm:text-base">Mürteza Oruç</h3>
                     <p class="text-xs text-emerald-200">Güzelyaka Köyü Muhtarı</p>
                 </div>
             </div>
@@ -174,14 +171,11 @@
                             <div class="w-28 h-28 mx-auto rounded-full bg-emerald-700 border-4 border-emerald-500 flex items-center justify-center text-5xl mb-4 text-emerald-200 shadow-md">
                                 <i class="fa-solid fa-user-tie"></i>
                             </div>
-                            <h3 class="text-2xl font-bold">Murtaza Oruç</h3>
+                            <h3 class="text-2xl font-bold">Mürteza Oruç</h3>
                             <p class="text-emerald-300 font-medium text-sm mt-1">Güzelyaka Köyü Muhtarı</p>
                             <div class="mt-6 pt-6 border-t border-emerald-700/60 flex flex-col gap-3 text-sm">
                                 <a href="tel:+905326606372" class="text-emerald-200 hover:text-white flex items-center justify-center gap-2">
                                     <i class="fa-solid fa-phone text-emerald-400"></i> +90 532 660 63 72
-                                </a>
-                                <a href="mailto:yo6751631@gmail.com" class="text-emerald-200 hover:text-white flex items-center justify-center gap-2">
-                                    <i class="fa-solid fa-envelope text-emerald-400"></i> yo6751631@gmail.com
                                 </a>
                             </div>
                         </div>
@@ -200,11 +194,11 @@
                         Güzelyaka Köyümüzün huzuru, gelişimi ve refahı için muhtarlık ekibimizle birlikte gece gündüz demeden çalışıyoruz. Altyapı çalışmalarından çevre düzenlemelerine, resmi evrak işlemlerinden komşularımızın ihtiyaçlarına kadar her konuda sizlerin hizmetindeyiz.
                     </p>
                     <p class="text-slate-600 dark:text-slate-300 leading-relaxed">
-                        Köyümüzle ilgili her türlü talep, öneri ve ihtiyacınızda bana doğrudan telefon numaramdan veya iletişim formumuz üzerinden ulaşabilirsiniz. Birlik ve beraberlik içinde köyümüzü daha güzel yarınlara taşıyacağız.
+                        Köyümüzle ilgili her türlü talep, öneri ve ihtiyacınızda bana doğrudan telefon numaramdan ulaşabilirsiniz. Birlik ve beraberlik içinde köyümüzü daha güzel yarınlara taşıyacağız.
                     </p>
                     <div class="pt-4 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
                         <div>
-                            <p class="font-bold text-slate-900 dark:text-white">Murtaza Oruç</p>
+                            <p class="font-bold text-slate-900 dark:text-white">Mürteza Oruç</p>
                             <p class="text-xs text-slate-500">Güzelyaka Köyü Muhtarı</p>
                         </div>
                         <a href="tel:+905326606372" class="px-5 py-2.5 bg-emerald-50 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-300 rounded-xl font-semibold text-sm hover:bg-emerald-100 transition-colors">
@@ -289,86 +283,17 @@
                     <div class="w-14 h-14 bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-400 rounded-xl flex items-center justify-center text-2xl mb-6">
                         <i class="fa-solid fa-bullhorn"></i>
                     </div>
-                    <h3 class="text-xl font-bold mb-3">Resmi İlan & Duyurular</h3>
+                    <h3 class="text-xl font-bold mb-3">Resmi İlan & Bilgilendirme</h3>
                     <p class="text-slate-600 dark:text-slate-400 text-sm leading-relaxed">
-                        Aşı takvimleri, elektrik/su kesintileri, kamu bilgilendirmeleri ve köy içi haberlerin paylaşımı.
+                        Aşı takvimleri, elektrik/su kesintileri, kamu bilgilendirmeleri ve köy içi süreçlerin takibi.
                     </p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Duyurular & Haberler -->
-    <section id="announcements" class="py-20 bg-white dark:bg-slate-900">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex flex-col md:flex-row md:items-end justify-between mb-12">
-                <div>
-                    <span class="text-emerald-700 dark:text-emerald-400 font-bold text-sm uppercase tracking-wider">Bilgilendirme Panosu</span>
-                    <h2 class="text-3xl sm:text-4xl font-extrabold text-slate-900 dark:text-white mt-1">Köy Duyuruları & Haberler</h2>
-                </div>
-                <p class="text-slate-500 text-sm mt-2 md:mt-0">Son güncelleme: Ekim 2026</p>
-            </div>
-
-            <div class="grid md:grid-cols-3 gap-8">
-                <!-- Duyuru 1 -->
-                <article class="bg-slate-50 dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700 flex flex-col justify-between">
-                    <div>
-                        <div class="flex items-center justify-between text-xs font-semibold text-emerald-700 dark:text-emerald-400 mb-3">
-                            <span><i class="fa-regular fa-calendar mr-1"></i> Güncel Duyuru</span>
-                            <span class="px-2.5 py-1 bg-emerald-100 dark:bg-emerald-950 rounded-full">Önemli</span>
-                        </div>
-                        <h3 class="font-bold text-lg mb-2 text-slate-900 dark:text-white">Çiftçi Destekleme ve ÇKS Kayıt Güncellemeleri</h3>
-                        <p class="text-slate-600 dark:text-slate-300 text-sm leading-relaxed mb-4">
-                            Tarımsal desteklerden yararlanacak köylülerimizin ÇKS kayıtlarını muhtarlığımıza gelerek güncellemeleri rica olunur.
-                        </p>
-                    </div>
-                    <div class="pt-4 border-t border-slate-200 dark:border-slate-700 text-xs text-slate-500 flex justify-between items-center">
-                        <span>Güzelyaka Muhtarlığı</span>
-                        <a href="tel:+905326606372" class="text-emerald-600 font-bold hover:underline">Bilgi Al</a>
-                    </div>
-                </article>
-
-                <!-- Duyuru 2 -->
-                <article class="bg-slate-50 dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700 flex flex-col justify-between">
-                    <div>
-                        <div class="flex items-center justify-between text-xs font-semibold text-emerald-700 dark:text-emerald-400 mb-3">
-                            <span><i class="fa-regular fa-calendar mr-1"></i> Altyapı</span>
-                            <span class="px-2.5 py-1 bg-blue-100 dark:bg-blue-950 text-blue-700 dark:text-blue-300 rounded-full">Bilgi</span>
-                        </div>
-                        <h3 class="font-bold text-lg mb-2 text-slate-900 dark:text-white">Köy İçi Yolların Bakım ve Onarım Çalışmaları</h3>
-                        <p class="text-slate-600 dark:text-slate-300 text-sm leading-relaxed mb-4">
-                            Çaycuma Belediyesi iş birliği ile köy yollarımızda düzenleme ve kumlama çalışmaları tamamlanmaktadır.
-                        </p>
-                    </div>
-                    <div class="pt-4 border-t border-slate-200 dark:border-slate-700 text-xs text-slate-500 flex justify-between items-center">
-                        <span>Güzelyaka Muhtarlığı</span>
-                        <a href="tel:+905326606372" class="text-emerald-600 font-bold hover:underline">Bilgi Al</a>
-                    </div>
-                </article>
-
-                <!-- Duyuru 3 -->
-                <article class="bg-slate-50 dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700 flex flex-col justify-between">
-                    <div>
-                        <div class="flex items-center justify-between text-xs font-semibold text-emerald-700 dark:text-emerald-400 mb-3">
-                            <span><i class="fa-regular fa-calendar mr-1"></i> Genel Temizlik</span>
-                            <span class="px-2.5 py-1 bg-amber-100 dark:bg-amber-950 text-amber-700 dark:text-amber-300 rounded-full">Etkinlik</span>
-                        </div>
-                        <h3 class="font-bold text-lg mb-2 text-slate-900 dark:text-white">Çevre Temizliği ve İlaçlama Faaliyetleri</h3>
-                        <p class="text-slate-600 dark:text-slate-300 text-sm leading-relaxed mb-4">
-                            Mevsimsel haşere ilaçlaması ve dere yatağı temizlik çalışmaları planlanan takvim doğrultusunda devam etmektedir.
-                        </p>
-                    </div>
-                    <div class="pt-4 border-t border-slate-200 dark:border-slate-700 text-xs text-slate-500 flex justify-between items-center">
-                        <span>Güzelyaka Muhtarlığı</span>
-                        <a href="tel:+905326606372" class="text-emerald-600 font-bold hover:underline">Bilgi Al</a>
-                    </div>
-                </article>
-            </div>
-        </div>
-    </section>
-
     <!-- Köyümüz Hakkında / Galeri -->
-    <section id="about-village" class="py-20 bg-slate-100/80 dark:bg-slate-800/50">
+    <section id="about-village" class="py-20 bg-white dark:bg-slate-900">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid lg:grid-cols-2 gap-12 items-center">
                 <div class="space-y-6">
@@ -382,11 +307,11 @@
                     </p>
 
                     <div class="grid grid-cols-2 gap-4 pt-2">
-                        <div class="p-4 bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800">
+                        <div class="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700">
                             <h4 class="text-2xl font-bold text-emerald-700 dark:text-emerald-400">Çaycuma</h4>
                             <p class="text-xs text-slate-500 mt-1">Bağlı Olduğu İlçe</p>
                         </div>
-                        <div class="p-4 bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800">
+                        <div class="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700">
                             <h4 class="text-2xl font-bold text-emerald-700 dark:text-emerald-400">Zonguldak</h4>
                             <p class="text-xs text-slate-500 mt-1">Bağlı Olduğu İl</p>
                         </div>
@@ -403,7 +328,7 @@
     </section>
 
     <!-- İletişim & Konum -->
-    <section id="contact" class="py-20 bg-white dark:bg-slate-900">
+    <section id="contact" class="py-20 bg-slate-100/80 dark:bg-slate-800/50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-3xl mx-auto mb-16">
                 <span class="text-emerald-700 dark:text-emerald-400 font-bold text-sm uppercase tracking-wider">Bizimle İletişime Geçin</span>
@@ -414,89 +339,35 @@
                 </p>
             </div>
 
-            <div class="grid lg:grid-cols-3 gap-8">
-                <!-- İletişim Bilgileri Kartları -->
-                <div class="space-y-6">
-                    <!-- Muhtar Telefon Kartı -->
-                    <a href="tel:+905326606372" class="flex items-start gap-4 p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 hover:border-emerald-600 transition-all group">
-                        <div class="w-12 h-12 bg-emerald-600 text-white rounded-xl flex items-center justify-center text-xl shrink-0 group-hover:scale-110 transition-transform">
-                            <i class="fa-solid fa-phone"></i>
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-slate-900 dark:text-white mb-1">Muhtar Telefon / WhatsApp</h4>
-                            <p class="text-base font-bold text-emerald-700 dark:text-emerald-400">+90 532 660 63 72</p>
-                            <p class="text-xs text-slate-500 mt-1">Murtaza Oruç (Aramak için tıklayın)</p>
-                        </div>
-                    </a>
-
-                    <!-- E-Posta Kartı -->
-                    <a href="mailto:yo6751631@gmail.com" class="flex items-start gap-4 p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 hover:border-emerald-600 transition-all group">
-                        <div class="w-12 h-12 bg-emerald-600 text-white rounded-xl flex items-center justify-center text-xl shrink-0 group-hover:scale-110 transition-transform">
-                            <i class="fa-solid fa-envelope"></i>
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-slate-900 dark:text-white mb-1">E-Posta Adresi</h4>
-                            <p class="text-sm font-semibold text-emerald-700 dark:text-emerald-400">yo6751631@gmail.com</p>
-                            <p class="text-xs text-slate-500 mt-1">E-posta göndermek için tıklayın</p>
-                        </div>
-                    </a>
-
-                    <!-- Adres Kartı -->
-                    <div class="flex items-start gap-4 p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700">
-                        <div class="w-12 h-12 bg-emerald-600 text-white rounded-xl flex items-center justify-center text-xl shrink-0">
-                            <i class="fa-solid fa-location-dot"></i>
-                        </div>
-                        <div>
-                            <h4 class="font-bold text-slate-900 dark:text-white mb-1">Muhtarlık Adresi</h4>
-                            <p class="text-sm text-slate-700 dark:text-slate-300 font-medium">Güzelyaka Köyü Muhtarlığı</p>
-                            <p class="text-xs text-slate-500 mt-1">Çaycuma / Zonguldak, Türkiye</p>
-                        </div>
+            <!-- İletişim Bilgileri Kartları -->
+            <div class="grid md:grid-cols-2 gap-6 mb-12">
+                <!-- Muhtar Telefon Kartı -->
+                <a href="tel:+905326606372" class="flex items-start gap-4 p-6 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-emerald-600 transition-all group">
+                    <div class="w-12 h-12 bg-emerald-600 text-white rounded-xl flex items-center justify-center text-xl shrink-0 group-hover:scale-110 transition-transform">
+                        <i class="fa-solid fa-phone"></i>
                     </div>
-                </div>
+                    <div>
+                        <h4 class="font-bold text-slate-900 dark:text-white mb-1">Muhtar Telefon / WhatsApp</h4>
+                        <p class="text-base font-bold text-emerald-700 dark:text-emerald-400">+90 532 660 63 72</p>
+                        <p class="text-xs text-slate-500 mt-1">Mürteza Oruç (Aramak için tıklayın)</p>
+                    </div>
+                </a>
 
-                <!-- Form -->
-                <div class="lg:col-span-2 bg-slate-50 dark:bg-slate-800 p-8 rounded-2xl border border-slate-200 dark:border-slate-700">
-                    <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-6">Muhtarlığa Mesaj Gönderin</h3>
-                    
-                    <div id="form-alert" class="hidden mb-6 p-4 rounded-xl text-sm font-medium"></div>
-
-                    <form id="village-contact-form" class="space-y-6">
-                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-                            <div>
-                                <label for="fullname" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Adınız Soyadınız *</label>
-                                <input type="text" id="fullname" required placeholder="Ahmet Yılmaz" class="w-full px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 focus:ring-2 focus:ring-emerald-600 focus:outline-none">
-                            </div>
-                            <div>
-                                <label for="phone" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Telefon Numaranız *</label>
-                                <input type="tel" id="phone" required placeholder="0532 XXX XX XX" class="w-full px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 focus:ring-2 focus:ring-emerald-600 focus:outline-none">
-                            </div>
-                        </div>
-
-                        <div>
-                            <label for="subject" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Konu / Talebiniz *</label>
-                            <select id="subject" class="w-full px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 focus:ring-2 focus:ring-emerald-600 focus:outline-none">
-                                <option>Belge / İkametgah Talebi</option>
-                                <option>Altyapı / Yol / Su Bildirimi</option>
-                                <option>ÇKS / Tarımsal Destek</option>
-                                <option>Muhtara Özel Mesaj</option>
-                                <option>Diğer</option>
-                            </select>
-                        </div>
-
-                        <div>
-                            <label for="message" class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Mesajınız *</label>
-                            <textarea id="message" rows="4" required placeholder="Talebinizi veya iletmek istediğiniz mesajı buraya yazabilirsiniz..." class="w-full px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 focus:ring-2 focus:ring-emerald-600 focus:outline-none"></textarea>
-                        </div>
-
-                        <button type="submit" class="w-full py-4 bg-emerald-700 hover:bg-emerald-800 text-white font-bold rounded-xl shadow-lg transition-all flex items-center justify-center gap-2">
-                            <i class="fa-solid fa-paper-plane"></i> Mesajı Gönder
-                        </button>
-                    </form>
+                <!-- Adres Kartı -->
+                <div class="flex items-start gap-4 p-6 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800">
+                    <div class="w-12 h-12 bg-emerald-600 text-white rounded-xl flex items-center justify-center text-xl shrink-0">
+                        <i class="fa-solid fa-location-dot"></i>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-slate-900 dark:text-white mb-1">Muhtarlık Adresi</h4>
+                        <p class="text-sm text-slate-700 dark:text-slate-300 font-medium">Güzelyaka Köyü Muhtarlığı</p>
+                        <p class="text-xs text-slate-500 mt-1">Çaycuma / Zonguldak, Türkiye</p>
+                    </div>
                 </div>
             </div>
 
             <!-- Harita Görünümü -->
-            <div class="mt-12 rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 h-80 shadow-md">
+            <div class="rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 h-96 shadow-md">
                 <iframe 
                     class="w-full h-full border-0"
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95514.80164825964!2d32.0000!3d41.4250!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409b83b38ef0fa69%3A0x6a0a038c1103f53!2xC3%87aycuma%2C%20Zonguldak!5e0!3m2!1str!2str!4v1680000000000!5m2!1str!2str" 
@@ -516,14 +387,14 @@
                     <h3 class="text-xl font-bold text-white flex items-center justify-center md:justify-start gap-2">
                         <i class="fa-solid fa-building-columns text-emerald-400"></i> Güzelyaka Köyü Muhtarlığı
                     </h3>
-                    <p class="text-xs text-emerald-400 mt-1">Muhtar: Murtaza Oruç | Çaycuma / Zonguldak</p>
+                    <p class="text-xs text-emerald-400 mt-1">Muhtar: Mürteza Oruç | Çaycuma / Zonguldak</p>
                 </div>
 
                 <div class="flex flex-wrap justify-center gap-6 text-sm">
                     <a href="#hero" class="hover:text-white transition-colors">Ana Sayfa</a>
                     <a href="#muhtar" class="hover:text-white transition-colors">Muhtarımızın Mesajı</a>
                     <a href="#services" class="hover:text-white transition-colors">Hizmetler</a>
-                    <a href="#announcements" class="hover:text-white transition-colors">Duyurular</a>
+                    <a href="#about-village" class="hover:text-white transition-colors">Köyümüz</a>
                     <a href="#contact" class="hover:text-white transition-colors">İletişim</a>
                 </div>
 
@@ -555,24 +426,6 @@
                 mobileMenu.classList.add('hidden');
             });
         });
-
-        // Form Gönderme Mantığı
-        const contactForm = document.getElementById('village-contact-form');
-        const formAlert = document.getElementById('form-alert');
-
-        contactForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            
-            formAlert.textContent = "Talebiniz Muhtar Murtaza Oruç'a iletilmiştir. En kısa sürede geri dönüş yapılacaktır.";
-            formAlert.className = "mb-6 p-4 rounded-xl text-sm font-medium bg-emerald-100 text-emerald-900 border border-emerald-300 block";
-
-            contactForm.reset();
-
-            setTimeout(() => {
-                formAlert.classList.add('hidden');
-            }, 6000);
-        });
     </script>
 </body>
 </html>
-```
